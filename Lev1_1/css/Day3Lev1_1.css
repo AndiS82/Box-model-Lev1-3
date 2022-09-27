@@ -1,0 +1,12 @@
+body p {
+    display: inline-block;
+    width: 200px;
+    background-color: aquamarine;
+    padding: 25px;
+    border-radius: 25px;
+    border: 25px solid black;
+    margin: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px 10px 15px 10px
+}

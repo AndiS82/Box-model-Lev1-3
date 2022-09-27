@@ -1,0 +1,17 @@
+section {
+    display: inline-block;
+    background: 400px white;
+    padding: 15px;
+    border: 5px solid gray;
+}
+
+p {
+    display: inline-block;
+    width: 300px;
+    background-color: aquamarine;
+    margin: 20px;
+    margin: color:grey;
+    padding: 50px 25px;
+    border: 5px solid black;
+    width: 400px;
+}
